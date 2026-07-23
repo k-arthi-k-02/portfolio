@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yarramrajukarthik.vercel.app/sitemap.xml
